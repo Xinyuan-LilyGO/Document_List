@@ -1,4 +1,8 @@
 # 文档目录 #
+![WATCH](https://img.shields.io/badge/product-T--Watch-pink)
+![Read the Docs](https://img.shields.io/badge/docs-60%25-green)
+![T5](https://img.shields.io/badge/product-T5--Epaper-orange)
+![APM](https://img.shields.io/apm/l/vim-mode)
 
 LILYGO产品系列在线文档
 (点击图片，可直接进入)
